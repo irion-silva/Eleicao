@@ -1,5 +1,5 @@
 # Eleicao
- Simulação de uma votação para prefeito
+Algoritmo de contagem de votos para eleição
  
 ## Tecnologias utilizada:
 Java
